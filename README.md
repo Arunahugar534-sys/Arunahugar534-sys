@@ -6,7 +6,7 @@
 🚀 About Me
 </div>
 Name     : Aruna
-Role     : MultiCloud DevOps Engineer 
+Role     : Site Reliability Engineer
 Training : MultiCloud DevOps Engineering Program
 Clouds   : AWS ☁️  |  Azure 🔷  |  GCP 🌐
 Status   : 🟢 Open to Work — Full-time / Internship
