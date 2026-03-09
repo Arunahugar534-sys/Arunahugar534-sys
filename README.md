@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Naveen&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MultiCloud%20DevOps%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Aruna&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MultiCloud%20DevOps%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,8 +11,6 @@ Training : MultiCloud DevOps Engineering Program
 Clouds   : AWS ☁️  |  Azure 🔷  |  GCP 🌐
 Status   : 🟢 Open to Work — Full-time / Internship
 Location : India
-
-
 
 <div align="center">
 ☁️ Cloud Platforms
